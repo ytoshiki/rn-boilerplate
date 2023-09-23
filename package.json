@@ -51,6 +51,5 @@
   },
   "lint-staged": {
     "*.{ts,tsx}": "eslint"
-  },
-  "main": "src/App.tsx"
+  }
 }
