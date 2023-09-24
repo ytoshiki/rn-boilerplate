@@ -38,6 +38,7 @@
       2,
       { "namedComponents": ["arrow-function", "function-declaration"] }
     ],
+    
     "no-use-before-define": "off",
     "import/extensions": ["error", "never"],
     "react/prop-types": 0,
